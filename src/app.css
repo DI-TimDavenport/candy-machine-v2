@@ -13,6 +13,7 @@ main {
   text-align: center;
   padding: 1em;
   margin: 0 auto;
+  background-image: url(../public/BACKGROUND.jpeg);
 }
 .lds-hourglass {
   display: inline-block;
