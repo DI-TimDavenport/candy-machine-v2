@@ -16,10 +16,10 @@
 
   /***********************************/
   // Customise the app by changing the following variables.
-  const TITLE = "Shapes";
-  const DESCRTIPTION = "A collection of shapes on the blockchain";
-  const HEADER_TITLE = "shapes.xyz";
-  const HEADER_LINK = "https://lanablocks.xyz";
+  const TITLE = "BucketHeads";
+  const DESCRTIPTION = "The invasion begins, how many BucketHeads will you support?";
+  const HEADER_TITLE = "BucketHeads NFT";
+  const HEADER_LINK = "https://bucketheads.io";
   // Your image or GIF needs to be in the /public folder for this to work
   const IMAGE_LINK = "/example.gif";
   /***********************************/
